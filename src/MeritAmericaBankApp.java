@@ -2,7 +2,7 @@ public class MeritAmericaBankApp {
 
 	public static void main(String args[]) {
 		// 1. Instantiate an account holder with a checkings balance of $100 and a savings balance of $1000
-		AccountHolder myAccount = new AccountHolder("Minsun", "", "Kim", "208995392", 100.0, 1000.0);
+		AccountHolder myAccount = new AccountHolder("Pat", "", "Fitzpatrick", "6758244545", 100.0, 1000.0);
 		
 		// 2. Display the account holder's toString() output
 		System.out.println(myAccount.toString());
